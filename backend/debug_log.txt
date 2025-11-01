@@ -1,0 +1,84 @@
+{"timestamp":"2025-10-30 14:36:50","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:60803","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-10-30 14:37:22","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:60803","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-10-30 14:37:33","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:60803","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-10-31 13:58:43","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-10-31 13:58:56","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=actualizar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada: actualizar
+{"timestamp":"2025-10-31 13:58:56","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-10-31 13:59:05","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=actualizar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada: actualizar
+{"timestamp":"2025-10-31 13:59:05","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-10-31 13:59:11","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-10-31 13:59:15","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:58323","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 16:43:23","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:60353","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 16:43:57","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:60353","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:41:50","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php","http_origin":"No origin header","remote_addr":"::1"}
+Acción solicitada: 
+{"timestamp":"2025-11-01 18:42:00","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php","http_origin":"No origin header","remote_addr":"::1"}
+Acción solicitada en Producto: 
+{"timestamp":"2025-11-01 18:43:35","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"No origin header","remote_addr":"127.0.0.1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:46:25","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:47:00","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:47:08","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:47:12","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:47:44","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"No origin header","remote_addr":"127.0.0.1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:50:11","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:50:15","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:50:20","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:50:28","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=insertar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: insertar
+{"timestamp":"2025-11-01 18:50:28","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:50:32","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:50:50","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=insertar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: insertar
+{"timestamp":"2025-11-01 18:50:50","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:51:28","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=insertar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: insertar
+{"timestamp":"2025-11-01 18:51:28","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:51:49","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=insertar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: insertar
+{"timestamp":"2025-11-01 18:51:49","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:51:58","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:52:02","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:52:04","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=eliminar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: eliminar
+{"timestamp":"2025-11-01 18:52:04","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:52:26","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=insertar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: insertar
+{"timestamp":"2025-11-01 18:52:26","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
+{"timestamp":"2025-11-01 18:53:21","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:53:23","request_method":"POST","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=eliminar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: eliminar
+{"timestamp":"2025-11-01 18:53:24","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/CategoriaController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada: listar
+{"timestamp":"2025-11-01 18:53:28","request_method":"GET","request_uri":"\/product_manager\/product_manager\/backend\/controllers\/ProductoController.php?accion=listar","http_origin":"http:\/\/localhost:53623","remote_addr":"::1"}
+Acción solicitada en Producto: listar
